@@ -1,0 +1,21 @@
+{
+  "config": {
+    "title": "FontAwesome",
+    "abort": {
+      "single_instance_allowed": "Возможна только одна конфигурация FontAwesome."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Набор иконок",
+        "description": "Выбор набора иконок",
+        "data": {
+          "regular": "Включать Regular icons (far:)",
+          "solid": "Включать Solid icons (fas:)",
+          "brands": "Включать Brand icons (fab:)"
+        }
+      }
+    }
+  }
+}
